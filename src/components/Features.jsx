@@ -14,6 +14,12 @@ const Features = () => {
       imageSrc: '/instagram.png',
       altText: 'Instagram Logo',
     },
+    {
+      name: 'Tiktok',
+      link: 'https://www.tiktok.com/@aubeofficial?_t=ZS-8u3Deb5i24t&_r=1', // External link
+      imageSrc: '/tiktok.jpg',
+      altText: 'Tiktok Logo',
+    },
   ];
 
   return (
