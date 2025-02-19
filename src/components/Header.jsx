@@ -31,7 +31,7 @@ const Header = () => {
             </span>
             <div className='flex flex-col gap-4'>
               <p className='flex justify-center mt-6 text-sm text-gray-700 font-medium lg:text-base'>
-                <span className='w-4/6'>
+                <span className='w-full lg:w-4/6'>
                   Hadirkan Keharuman yang Menyegarkan, Ciptakan Suasana Nyaman
                   di Setiap Sudut Ruangan Anda!
                 </span>

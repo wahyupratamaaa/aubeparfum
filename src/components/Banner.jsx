@@ -1,8 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-
-//icons
-import { FaArrowRight } from 'react-icons/fa';
 
 const Banner = () => {
   return (
