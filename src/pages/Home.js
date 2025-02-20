@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import Header from '../components/Header';
 
 //components
@@ -6,6 +6,7 @@ import Stats from '../components/Stats';
 import Features from '../components/Features';
 import WhyUs from '../components/WhyUs';
 import Banner from '../components/Banner';
+// import Mitra from '../components/Mitra';
 
 const Home = () => {
   return (
@@ -15,8 +16,9 @@ const Home = () => {
       <Features />
       <WhyUs />
       <Banner />
+      {/* <Mitra /> */}
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;

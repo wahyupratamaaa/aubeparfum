@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { HashLink } from 'react-router-hash-link';
 import iconheader from '../assets/iconbanner.png';
 import { RiInstagramFill } from 'react-icons/ri';
 
